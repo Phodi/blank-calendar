@@ -110,16 +110,16 @@
   <table class="table-fixed border-collapse w-full h-full border border-black">
     <thead>
       <tr class="header">
-        <th class="p-2 text-center border border-black w-1/7 h-full">อาทิตย์</th
+        <th class="p-1 text-center border border-black w-1/7 h-full">อาทิตย์</th
         >
-        <th class="p-2 text-center border border-black w-1/7 h-full">จันทร์</th>
-        <th class="p-2 text-center border border-black w-1/7 h-full">อังคาร</th>
-        <th class="p-2 text-center border border-black w-1/7 h-full">พุธ</th>
-        <th class="p-2 text-center border border-black w-1/7 h-full"
+        <th class="p-1 text-center border border-black w-1/7 h-full">จันทร์</th>
+        <th class="p-1 text-center border border-black w-1/7 h-full">อังคาร</th>
+        <th class="p-1 text-center border border-black w-1/7 h-full">พุธ</th>
+        <th class="p-1 text-center border border-black w-1/7 h-full"
           >พฤหัสบดี</th
         >
-        <th class="p-2 text-center border border-black w-1/7 h-full">ศุกร์</th>
-        <th class="p-2 text-center border border-black w-1/7 h-full">เสาร์</th>
+        <th class="p-1 text-center border border-black w-1/7 h-full">ศุกร์</th>
+        <th class="p-1 text-center border border-black w-1/7 h-full">เสาร์</th>
       </tr>
     </thead>
     <tbody>
@@ -157,6 +157,6 @@
     height: 16vh;
   }
   .day-6 {
-    height: 14vh;
+    height: 13.6vh;
   }
 </style>
